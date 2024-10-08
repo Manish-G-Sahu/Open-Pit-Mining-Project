@@ -1,0 +1,1 @@
+# Open-Pit-Mining-Project
