@@ -10,7 +10,7 @@ Real-time Data Monitoring: Continuously tracks mining operations including diggi
 
 Data Analytics: Provides insights into operations and identifies inefficiencies or areas for improvement.
 
-Dashboards: Interactive dashboards built using Power BI/Tableau for data visualization and decision-making.
+Dashboards: Interactive dashboards built using Tableau/Power BI for data visualization and decision-making.
 
 Alerts & Notifications: Real-time alerts for any anomalies or inefficiencies in the operations.
 
