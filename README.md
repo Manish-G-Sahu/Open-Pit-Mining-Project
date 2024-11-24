@@ -2,7 +2,7 @@
 
 Open Pit Mining Smart Live Monitoring System
 
-# Project Overview:-
+## Project Overview:-
 The Open Pit Mining Smart Live Monitoring System is designed to track and analyze the operations of an open-pit mine. This system provides real-time monitoring of key processes such as digging, crushing, and hauling, helping optimize mining operations for better efficiency and cost reduction. The system integrates data from various operations and visualizes it in an easy-to-understand dashboard.
 
 # Key Features:-
